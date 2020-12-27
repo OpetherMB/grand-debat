@@ -12,6 +12,7 @@ Les problèmes majeurs dont les Français ont parlé selon les données sont les
 
 Déreglements et disparition de certaines espèces, Pollution et déchets, Usage excessif des véhicules, Mode de chauffage
 
+plus d'éxplication lors d'un entretien (si jamais) et ca serais une opportunité pour discuté les resultats et les interpretations et aussi voir d'autre methodes qui servent a mieux faire un topic modelling.
 
 ### Notebooks .
 1- Analyse des données . 2- nettoyage des données . 3- Modélisation des sujets.
