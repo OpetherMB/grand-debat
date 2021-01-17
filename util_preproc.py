@@ -51,7 +51,7 @@ def clean_X(X):
     pd_list = [it.lower() for it in pd_list] # to lowercase
     pd_list = [re.sub(r'ô','o',it) for it in pd_list] 
     pd_list = [re.sub(r'[éêè]','e',it) for it in pd_list] 
-    pd_list = [re.sub(r'([^a-zéèûôàêô])',' ',it) for it in pd_list]
+    pd_list = [re.sub(r'([^a-zéèûôàêô])',' ',it) for it in pd_list]  #not part
     pd_list = [re.sub('\n', '',it) for it in pd_list]
     
     return pd_list
